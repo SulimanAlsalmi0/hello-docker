@@ -75,14 +75,8 @@ docker run --rm -e PORT=4000 -p 4000:4000 hello-docker:latest
 - If `npm install` fails, inspect `build.log` (if you ran commands with `Tee-Object`) or re-run `npm install` locally to see the full error.
 - If Docker build fails, ensure Docker Desktop/Engine is running and you have network access to download base images.
 
-## License
 
-{license_name}
 
 ## Author
 
-{author_name}
-
----
-
-For issues, please open an issue on the repository at {repository_url}.
+Suliman
